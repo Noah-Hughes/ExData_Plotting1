@@ -1,3 +1,7 @@
+##This a fork created for the coursera data science class
+Created by Noah Hughes
+Date: 9/5/2014
+
 ## Introduction
 
 This assignment uses data from
