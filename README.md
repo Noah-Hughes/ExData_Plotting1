@@ -2,6 +2,8 @@
 Created by Noah Hughes
 Date: 2/5/2015
 
+Note to reader/checker was enrolled in this class in September and did not finish the class.  I have restarted the class and that is why the submission dates are in September.  Thanks.
+
 ## Introduction
 
 This assignment uses data from
