@@ -1,6 +1,6 @@
 ## plot2.R
 ## Created by Noah Hughes
-## Started 9/4/2014
+## Completed 7/11/2015
 ## This program assumes that you have access to the household_power_consumption.txt
 ## This program also assume that the dataset is in the current directory that you are running in
 

@@ -1,8 +1,8 @@
 ##This a fork created for the coursera data science class
 Created by Noah Hughes
-Date: 2/5/2015
+Date: 7/5/2015
 
-Note to reader/checker was enrolled in this class in September and did not finish the class.  I have restarted the class and that is why the submission dates are in September.  Thanks.
+Note to reader/checker was enrolled in this class in September and did not finish the class.  I have restarted the class.  Thanks.
 
 ## Introduction
 

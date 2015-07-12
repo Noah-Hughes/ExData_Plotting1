@@ -1,11 +1,12 @@
 ## plot1.R
 ## Created by Noah Hughes
-## Started 9/4/2014
+## Completed 7/11/2015
 ## This program assumes that you have access to the household_power_consumption.txt
 ## This program also assume that the dataset is in the current directory that you are running in
 
 plot1 <- function()
 {
+  
   
   hp <- read.csv("./household_power_consumption.txt", sep = ";", na.strings='?', 
                  colClasses=c(rep('character', 2), rep('numeric', 7)))
